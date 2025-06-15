@@ -1,5 +1,4 @@
 import {
-  ArrowRight,
   Code,
   Zap,
   Shield,
@@ -7,7 +6,6 @@ import {
   Download,
   Rocket,
   CheckCircle,
-  Github,
   Network,
   Layers,
   Users,
