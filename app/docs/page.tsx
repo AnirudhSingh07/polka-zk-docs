@@ -594,7 +594,7 @@ docker-compose exec backend npm run migrate`}
 
 <li> Compiles verifier.sol generated during compilation to .polkavm binary </li>
 <li>Converts the binary to hex and deploys it to PolkaVM via cast send --create </li>
-<li>Deploys the .polkavm binary to PolkaVM Blockchain, taking fees from the provided wallet's private key</li>
+<li>Deploys the .polkavm binary to PolkaVM Blockchain, taking fees from the provided wallet&apos;s private key</li>
                       </p>
                       
                     </div>

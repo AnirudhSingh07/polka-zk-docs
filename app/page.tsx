@@ -54,7 +54,7 @@ export default function HomePage() {
             🔗 Built for the Polkadot Ecosystem
           </Badge>
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
-            Polkadot's
+            Polkadot&apos;s
             <span className="bg-gradient-to-r from-pink-400 to-purple-400 bg-clip-text text-transparent">
               {' ZK Circuit Platform '} 
               
@@ -200,7 +200,7 @@ export default function HomePage() {
                 <Globe className="h-12 w-12 text-pink-400 mb-4" />
                 <CardTitle className="text-white">Relay Chain Bridge</CardTitle>
                 <CardDescription className="text-gray-300">
-                  Bridge ZK proofs between parachains via Polkadot's relay chain for ultimate interoperability.
+                  Bridge ZK proofs between parachains via Polkadot&apos;s relay chain for ultimate interoperability.
                 </CardDescription>
               </CardHeader>
             </Card>
@@ -210,7 +210,7 @@ export default function HomePage() {
                 <Shield className="h-12 w-12 text-purple-400 mb-4" />
                 <CardTitle className="text-white">DOT-Secured Proofs</CardTitle>
                 <CardDescription className="text-gray-300">
-                  Leverage Polkadot's shared security model for enterprise-grade zero-knowledge proof verification.
+                  Leverage Polkadot&apos;s shared security model for enterprise-grade zero-knowledge proof verification.
                 </CardDescription>
               </CardHeader>
             </Card>
@@ -282,7 +282,7 @@ export default function HomePage() {
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-white mb-4">From Circuit to Parachain in Minutes</h2>
             <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-              Streamlined for Polkadot's multi-chain architecture.
+              Streamlined for Polkadot&apos;s multi-chain architecture.
             </p>
           </div>
 
@@ -328,7 +328,7 @@ export default function HomePage() {
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-white mb-4">Built for Polkadot from Day One</h2>
             <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-              Every feature designed with Polkadot's multi-chain vision in mind.
+              Every feature designed with Polkadot&apos;s multi-chain vision in mind.
             </p>
           </div>
 
@@ -349,7 +349,7 @@ export default function HomePage() {
                 <div>
                   <h3 className="text-lg font-semibold text-white mb-2">PolkaVM Compilation Pipeline</h3>
                   <p className="text-gray-300">
-                    Server-side compilation using Parity Revive, optimized for Polkadot's WebAssembly runtime.
+                    Server-side compilation using Parity Revive, optimized for Polkadot&apos;s WebAssembly runtime.
                   </p>
                 </div>
               </div>
@@ -381,7 +381,7 @@ export default function HomePage() {
                 <div>
                   <h3 className="text-lg font-semibold text-white mb-2">Relay Chain Integration</h3>
                   <p className="text-gray-300">
-                    Bridge ZK proofs between parachains using Polkadot's relay chain for ultimate interoperability.
+                    Bridge ZK proofs between parachains using Polkadot&apos;s relay chain for ultimate interoperability.
                   </p>
                 </div>
               </div>
@@ -391,7 +391,7 @@ export default function HomePage() {
                 <div>
                   <h3 className="text-lg font-semibold text-white mb-2">DOT-Secured Infrastructure</h3>
                   <p className="text-gray-300">
-                    Leverage Polkadot's shared security model for enterprise-grade zero-knowledge applications.
+                    Leverage Polkadot&apos;s shared security model for enterprise-grade zero-knowledge applications.
                   </p>
                 </div>
               </div>
@@ -403,7 +403,7 @@ export default function HomePage() {
       {/* Tech Stack - Polkadot Focused */}
       <section className="py-20 px-4 sm:px-6 lg:px-8 bg-black/20">
         <div className="max-w-7xl mx-auto text-center">
-          <h2 className="text-4xl font-bold text-white mb-4">Powered by Polkadot's Tech Stack</h2>
+          <h2 className="text-4xl font-bold text-white mb-4">Powered by Polkadot&apos;s Tech Stack</h2>
           <p className="text-xl text-gray-300 mb-12 max-w-2xl mx-auto">
             Built with the best tools in the Polkadot ecosystem for seamless parachain integration.
           </p>
