@@ -947,11 +947,11 @@ console.log('Cross-chain verification:', xcmpResult.success);`}
                   <Shield className="h-6 w-6 text-pink-400" />
                   <div className="absolute -top-1 -right-1 w-2 h-2 bg-pink-500 rounded-full animate-pulse"></div>
                 </div>
-                <span className="text-lg font-bold text-white">Polka</span>
+                <span className="text-lg font-bold text-white">{'Polka'}</span>
                 <span className="text-lg font-bold bg-gradient-to-r from-pink-400 to-purple-400 bg-clip-text text-transparent">
-                  ZK
+                  {'ZK'}
                 </span>
-                <span className="text-gray-400">/ Docs</span>
+                <span className="text-gray-400">{'/ Docs'}</span>
               </div>
             </div>
             <div className="flex items-center space-x-4">
@@ -1017,7 +1017,7 @@ console.log('Cross-chain verification:', xcmpResult.success);`}
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
             {/* Breadcrumbs */}
             <div className="flex items-center space-x-2 text-sm text-gray-400 mb-8">
-              <span>Docs</span>
+              <span>{'Docs'}</span>
               <ChevronRight className="h-4 w-4" />
               <span className="text-pink-400 capitalize">
                 {navigation.find((nav) => nav.id === activeSection)?.title}
