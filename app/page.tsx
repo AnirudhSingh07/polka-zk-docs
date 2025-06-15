@@ -29,9 +29,9 @@ export default function HomePage() {
                 <Shield className="h-8 w-8 text-pink-400" />
                 <div className="absolute -top-1 -right-1 w-3 h-3 bg-pink-500 rounded-full animate-pulse"></div>
               </div>
-              <span className="text-xl font-bold text-white">Polka</span>
+              <span className="text-xl font-bold text-white">{'Polka'}</span>
               <span className="text-xl font-bold bg-gradient-to-r from-pink-400 to-purple-400 bg-clip-text text-transparent">
-                ZK
+                {'ZK'}
               </span>
             </div>
             <div className="flex items-center space-x-4">
@@ -56,8 +56,8 @@ export default function HomePage() {
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
             Polkadot's
             <span className="bg-gradient-to-r from-pink-400 to-purple-400 bg-clip-text text-transparent">
-              {" "}
-              ZK Circuit Platform
+              {' ZK Circuit Platform '} 
+              
             </span>
             <br />
             </h1>
@@ -232,7 +232,7 @@ export default function HomePage() {
             <Card className="bg-gradient-to-br from-pink-600/20 to-purple-600/20 border-pink-600/30 backdrop-blur-sm">
               <CardHeader className="text-center">
                 <div className="w-12 h-12 bg-pink-600 rounded-full flex items-center justify-center mx-auto mb-4">
-                  <span className="text-white font-bold">A</span>
+                  <span className="text-white font-bold">{'A'}</span>
                 </div>
                 <CardTitle className="text-white">Acala</CardTitle>
                 <CardDescription className="text-gray-300">DeFi Hub</CardDescription>
@@ -242,7 +242,7 @@ export default function HomePage() {
             <Card className="bg-gradient-to-br from-purple-600/20 to-pink-600/20 border-purple-600/30 backdrop-blur-sm">
               <CardHeader className="text-center">
                 <div className="w-12 h-12 bg-purple-600 rounded-full flex items-center justify-center mx-auto mb-4">
-                  <span className="text-white font-bold">M</span>
+                  <span className="text-white font-bold">{'M'}</span>
                 </div>
                 <CardTitle className="text-white">Moonbeam</CardTitle>
                 <CardDescription className="text-gray-300">Ethereum Compatible</CardDescription>
@@ -252,7 +252,7 @@ export default function HomePage() {
             <Card className="bg-gradient-to-br from-pink-600/20 to-purple-600/20 border-pink-600/30 backdrop-blur-sm">
               <CardHeader className="text-center">
                 <div className="w-12 h-12 bg-pink-600 rounded-full flex items-center justify-center mx-auto mb-4">
-                  <span className="text-white font-bold">P</span>
+                  <span className="text-white font-bold">{'P'}</span>
                 </div>
                 <CardTitle className="text-white">Parallel</CardTitle>
                 <CardDescription className="text-gray-300">Money Market</CardDescription>
@@ -262,7 +262,7 @@ export default function HomePage() {
             <Card className="bg-gradient-to-br from-purple-600/20 to-pink-600/20 border-purple-600/30 backdrop-blur-sm">
               <CardHeader className="text-center">
                 <div className="w-12 h-12 bg-purple-600 rounded-full flex items-center justify-center mx-auto mb-4">
-                  <span className="text-white font-bold">A</span>
+                  <span className="text-white font-bold">{'A'}</span>
                 </div>
                 <CardTitle className="text-white">Astar</CardTitle>
                 <CardDescription className="text-gray-300">Smart Contracts</CardDescription>
@@ -289,7 +289,7 @@ export default function HomePage() {
           <div className="grid md:grid-cols-4 gap-8">
             <div className="text-center">
               <div className="w-16 h-16 bg-pink-600 rounded-full flex items-center justify-center mx-auto mb-4">
-                <span className="text-2xl font-bold text-white">1</span>
+                <span className="text-2xl font-bold text-white">{'1'}</span>
               </div>
               <h3 className="text-xl font-semibold text-white mb-2">Design Circuit</h3>
               <p className="text-gray-300">Use Polkadot-optimized templates in our web editor</p>
@@ -297,7 +297,7 @@ export default function HomePage() {
 
             <div className="text-center">
               <div className="w-16 h-16 bg-purple-600 rounded-full flex items-center justify-center mx-auto mb-4">
-                <span className="text-2xl font-bold text-white">2</span>
+                <span className="text-2xl font-bold text-white">{'2'}</span>
               </div>
               <h3 className="text-xl font-semibold text-white mb-2">Compile to PolkaVM</h3>
               <p className="text-gray-300">Automatic compilation using Parity Revive toolchain</p>
@@ -305,7 +305,7 @@ export default function HomePage() {
 
             <div className="text-center">
               <div className="w-16 h-16 bg-pink-600 rounded-full flex items-center justify-center mx-auto mb-4">
-                <span className="text-2xl font-bold text-white">3</span>
+                <span className="text-2xl font-bold text-white">{'3'}</span>
               </div>
               <h3 className="text-xl font-semibold text-white mb-2">Choose Parachain</h3>
               <p className="text-gray-300">Select target parachains from 50+ options</p>
@@ -313,7 +313,7 @@ export default function HomePage() {
 
             <div className="text-center">
               <div className="w-16 h-16 bg-purple-600 rounded-full flex items-center justify-center mx-auto mb-4">
-                <span className="text-2xl font-bold text-white">4</span>
+                <span className="text-2xl font-bold text-white">{'4'}</span>
               </div>
               <h3 className="text-xl font-semibold text-white mb-2">Deploy & Verify</h3>
               <p className="text-gray-300">Live deployment with cross-chain verification</p>
@@ -493,9 +493,9 @@ export default function HomePage() {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <Shield className="h-6 w-6 text-pink-400" />
-                <span className="text-lg font-bold text-white">Polka</span>
+                <span className="text-lg font-bold text-white">{'Polka'}</span>
                 <span className="text-lg font-bold bg-gradient-to-r from-pink-400 to-purple-400 bg-clip-text text-transparent">
-                  ZK
+                  {'ZK'}
                 </span>
               </div>
               <p className="text-gray-400 text-sm">
